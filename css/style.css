@@ -1,0 +1,120 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:regular,700,900&display=swap);
+body{
+  font-family: "Lato", sans-serif;
+	width: 810px;
+	margin: 152px 0px 0px 345px;
+	background-color: #e5e5e5;
+}
+
+.header__container {
+  font-weight: 900;
+	font-size: 46px;
+	margin: 0px 0px 92px 0px;
+}
+
+.interviews__image {
+  width: 100%;
+	border-radius: 4px;
+	margin: 0px 0px 60px 0px;
+}
+
+.interviews__vulputate{
+  font-weight: 700;
+	font-size: 20px;
+	line-height: 30px;
+	color: #1E212C;
+	margin: 0px 0px 24px 0px;
+}
+
+.interviews__facilisi {
+  font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+	margin: 0px 0px 48px 0px;
+}
+
+.interviews__subtext {
+  font-weight: 700;
+	font-size: 20px;
+	line-height: 30px;
+	color: #1E212C;
+	padding-left: 58px;
+	margin: 0px 0px 48px 0px;
+}
+	
+.interviews__mauris {
+  font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+	margin: 0px 0px 24px 0px;
+}
+
+li{
+	margin: 0px 0px 4px 32px;
+	color: #424551;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+}
+.interviews__list {
+  margin-bottom: 24px;
+}
+
+.footer__enim {
+  font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+	margin-bottom: 60px;
+}
+
+h2 {
+  font-weight: 900;
+	font-size: 40px;
+	text-align: center;
+	text-shadow: 5px 5px 20px black;
+	margin:0px 0px 20px 0px;
+}
+
+.button{
+	display: inline-block;
+	background-color: #6f7839;
+	padding: 50px;
+	color: #fff;
+	border-radius: 50px;
+	box-shadow: 0 5px 0 #000;
+	transition: all 0.3s ease 0s;
+	margin-bottom: 50px;
+}
+.button:hover{
+	margin-top: 4px;
+	box-shadow: 0 2px 0 #000;
+}
+
+.practice__owerflow {
+  overflow: hidden;
+    background-color: #b48700;
+    border: 1px solid #ff0000;
+    border-radius: 40%;
+    margin-bottom: 30px;
+}
+.practice__auto {
+    overflow: auto;
+    height: 100px;
+    background-color: #d3e16a;
+    border: 5px dotted #ff4400;
+    margin-bottom: 30px;
+}
+.practice__opacity {
+  opacity: 0.5;
+  margin-bottom: 30px;
+}
+.practice__visible {
+  visibility: hidden;
+  margin-bottom: 30px;
+}
+.practice__dsp {
+  display: none;
+}
